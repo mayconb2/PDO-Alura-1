@@ -1,6 +1,4 @@
-CREATE DATABASE estoque;
-
-use estoque;
+use phpPDO;
 
 CREATE TABLE categorias
 (
